@@ -1,0 +1,28 @@
+body{
+
+}
+.jumbotron{
+    background-image: url('../assets/black\ ppt\ background.jpg');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color: darkgrey;
+    border-radius: 0px important;
+}
+.jumbotron h1{
+    margin: 10px 0;
+    font-size: 30px;
+    line-height: 1.5;
+}
+.intro{
+    padding-top: 50px;
+
+}
+.intro img{
+    width: 220px;
+
+}
+footer{
+    
+}
+
